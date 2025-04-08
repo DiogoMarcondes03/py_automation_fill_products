@@ -13,7 +13,7 @@ time.sleep (1.5)
 
 pyautogui.press("enter")
 pyautogui.press("tab")
-pyautogui.write("dougmarcondes03@hotmail.com")
+pyautogui.write("algumacoisa@hotmail.com")
 pyautogui.press("tab")
 pyautogui.write("senhawhateverparaacessarosite")
 pyautogui.press("tab")
