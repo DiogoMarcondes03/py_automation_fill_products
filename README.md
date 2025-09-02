@@ -6,14 +6,19 @@ Este projeto realiza a automação do cadastro de produtos em um sistema web uti
 Para rodar este projeto localmente, siga os passos abaixo:
 
 bash
+
 # Clone o repositório
+```
 git clone https://github.com/DiogoMarcondes03/py_automation_fill_products.git
-
+```
 # Acesse a pasta do projeto
+```
 cd py_automation_fill_products
-
+```
 # Instale as dependências
+```
 pip install pyautogui pandas
+```
 💡 Certifique-se de que o arquivo produtos.csv esteja na mesma pasta do script.
 
 🚀 Passo a passo da automação
