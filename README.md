@@ -22,11 +22,13 @@ pip install pyautogui pandas
 💡 Certifique-se de que o arquivo produtos.csv esteja na mesma pasta do script.
 
 🚀 Passo a passo da automação
+
 🔹 1. Abrir o navegador e acessar o sistema
 O script inicia o navegador Google Chrome e acessa a URL de login:
 
 Code
 https://dlp.hashtagtreinamentos.com/python/intensivao/login
+
 🔹 2. Realizar login
 Preenche os campos de e-mail e senha e clica no botão de login usando coordenadas da tela.
 
