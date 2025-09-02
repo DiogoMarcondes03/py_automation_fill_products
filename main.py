@@ -2,14 +2,14 @@ import pyautogui
 import pandas as pd
 import time
 
-pyautogui.PAUSE = 0.5
+pyautogui.PAUSE = 1
 
 pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 
-time.sleep (1.5)
+time.sleep (3.5)
 
 pyautogui.press("enter")
 pyautogui.press("tab")
@@ -19,7 +19,7 @@ pyautogui.write("senhawhateverparaacessarosite")
 pyautogui.press("tab")
 pyautogui.press("enter")
 
-time.sleep (3)
+time.sleep (3.5)
 
 tabela = pd.read_csv("produtos.csv")
 print(tabela)
