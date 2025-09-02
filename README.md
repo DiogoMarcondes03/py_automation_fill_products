@@ -7,15 +7,15 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 bash
 
-# Clone o repositório
+### Clone o repositório
 ```
 git clone https://github.com/DiogoMarcondes03/py_automation_fill_products.git
 ```
-# Acesse a pasta do projeto
+### Acesse a pasta do projeto
 ```
 cd py_automation_fill_products
 ```
-# Instale as dependências
+### Instale as dependências
 ```
 pip install pyautogui pandas
 ```
